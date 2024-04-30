@@ -1,0 +1,11 @@
+ARRAY : "Storing value of multiple data types in a single variable"
+syntex : "pre defined method to call"
+variable => array => elemennts => elements type => string
+static : unupdateable
+dynamic : updateableb
+method: push() => to add something in array at last we need to pass argument  
+        pop()  => to delete last element in the array 
+        unshift => add element at 0 index add first element in array we need to pass arguments
+        shift => to remove element at 0 index at array
+        splice  
+        slice
